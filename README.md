@@ -9,3 +9,5 @@
 2. 從主鍊結構($-N-C_\alpha-C -$)，計算Torsion angle (兩面角)，
    
 3. 再將計算出的Torsion angle進行回推驗算
+
+4. 繪製3D圖形(預計使用plotly)
